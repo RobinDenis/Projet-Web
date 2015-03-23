@@ -1,0 +1,53 @@
+.galerie{
+    text-align: center;
+}
+
+.galerie-bloc{
+    display: inline-block;
+    position: relative;
+}
+.galerie-legende{
+    position: absolute;
+    top:50%;
+    left:0;
+    width:100%;
+    margin-top: -15px;
+    text-align:center;
+}
+.galerie-legende p{
+    background-color:green;
+    padding:10px 20px;
+    border-radius:10px;
+    font-size:20px;
+    opacity:0.8;
+    color:white;
+    
+    
+    margin:0;
+    display: inline-block;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    
+    
+}
+
+header li {
+                liste-style:none;
+                display:inline-block;
+                width:18%;
+                texte-align:center;
+                text-align: center;
+                border-radius:20px;
+                text-decoration:none;
+          font-family: 'Comic Sans MS';
+                
+    
+}
+
+header a {
+    color: white
+
+}
