@@ -13,14 +13,15 @@
     width:100%;
     margin-top: -15px;
     text-align:center;
+    pointer-events: none;
 }
 .galerie-legende p{
-    background-color:green;
+    background-color:white;
     padding:10px 20px;
     border-radius:10px;
     font-size:20px;
     opacity:0.8;
-    color:white;
+    color:orangered;
     
     
     margin:0;
